@@ -3,7 +3,7 @@ def second_challenge
     :montague => {"Lord Montague"
       #your key/value pairs here!
       }, 
-    :capulet => {
+    :capulet => {"Lord Capulet"
       #your key/value pairs here!
       }}
 
